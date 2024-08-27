@@ -1,0 +1,4 @@
+key
+terraform_import
+terraform/.terraform
+terraform/.terraform.lock.hcl
